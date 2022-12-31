@@ -1,0 +1,24 @@
+explorer.exe - pcaclient
+
+explorer.exe - file:/// * {"displayText"
+
+explorer.exe - \users\ - .exe / .jar
+
+SearchIndexer - file:c / .exe
+
+Check browser - download
+
+Check last activity viewer
+
+echo.ac/sgrm and follow instructions there
+
+csrss - :\
+
+Cdpu - ,"platform":"x_exe_path"},
+
+Pcasvc - .exe or e,0a000000,Reason,00002100
+
+DPS - !! - .exe / downloads
+
+
+(BUSCAR TODOS CON STRING en 5, PRIVATE Y MAPPED)
